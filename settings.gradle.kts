@@ -1,5 +1,6 @@
 rootProject.name = "gradledemo"
 
 include(
-    "spring-demo"
+    "spring-demo",
+    "double-library",
 )
